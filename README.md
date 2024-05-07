@@ -11,7 +11,6 @@ In this project, our aim is to delve into the deep deterministic policy gradient
 * *xxx.pdf*: the explainations of the deep deterministic policy gradient (DDPG) approach in text.
 
 * *video*: the explainations of the deep deterministic policy gradient (DDPG) approach through presentation. The content is similar to the text.
-<img width="989" alt="taxonomy" src="https://github.com/yiwen-liang/PHP_2650_Final_Project/assets/144840603/55113232-9065-44e7-8be8-472ba7a506cf">
 
 ### Authors
 
