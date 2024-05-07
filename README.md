@@ -1,15 +1,16 @@
 # PHP2650 Final Project
-## Learning about *Continuous control With deep reinforcement learning* by Timothy P. Lillicrap, et al.
 
 ${\color{gray}Posted: 05/10/2024}$
 
-This is the complete repository, including both text and video to explain the paper *Continuous control With deep reinforcement learning* by Timothy P. Lillicrap, et al. for PHP 2550 Practical Data Analysis course at Brown University (Fall 23).
+This is the complete repository, including both text and video, for the final project of PHP 2550 Practical Data Analysis course at Brown University (Spring 24).
+
+In this project, our goal is to learn about the deep deterministic policy gradient (DDPG) approach introduced in the paper *Continuous control With deep reinforcement learning* by Timothy P. Lillicrap, et al. In order to make this post easier to follow, we start with a brief introduction of reinforcement learning (RL), then explore different types of RL algorithms and focus on the two that have been incorporated while developing the DDPG, deterministic policy gradient (DPG) algorithm and Deep Q Network (DQN). Eventually we talk about how the DDPG approach is developed and its applications. The explainations are presented both through text and video.
 
 ### Guidelines
 
-* *PHP2550_Final_Reflection.pdf*: the reflection report that discusses the changes made to each project, the reasons behind these changes, and the lessons learned through the improvement process.
+* *xxx.pdf*: the explainations of the deep deterministic policy gradient (DDPG) approach in text.
 
-* *PHP2550_Poster.pdf*: the poster presented at the Dec 14th poster session, focusing on Project1.
+* *video*: the explainations of the deep deterministic policy gradient (DDPG) approach through presentation. The content is similar to the text.
 
 ### Authors
 
