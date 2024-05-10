@@ -10,7 +10,7 @@ In this project, our aim is to delve into the deep deterministic policy gradient
 
 * *xxx.pdf*: the explainations of the deep deterministic policy gradient (DDPG) approach in text.
 
-* *video*: the explainations of the deep deterministic policy gradient (DDPG) approach through presentation. Limited by the size of the video file, we're not able to directly upload it in this Github post, the video can be found [here](https://drive.google.com/file/d/1TZLXkOSE62LYvV1SI7H1rE8Ym7c5YzLn/view?usp=drive_link).
+* *video*: the explainations of the deep deterministic policy gradient (DDPG) approach through presentation. Limited by the size of the video file, we're not able to directly upload it in this Github post, the video can be found [here](https://drive.google.com/file/d/1TZLXkOSE62LYvV1SI7H1rE8Ym7c5YzLn/view?usp=drive_link). We also mentioned an YouTube video in our presentation but cannot play it due to copyright reasons, the original video that teaches a robot to walk using DDPG can be watched on [Youtube](https://www.youtube.com/watch?v=TEFXp2Ro-10).
 
 ### Authors
 
