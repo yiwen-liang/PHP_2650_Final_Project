@@ -10,7 +10,7 @@ In this project, our aim is to delve into the deep deterministic policy gradient
 
 * *PHP2650_Final_Project.pdf*: the text summary of the deep deterministic policy gradient (DDPG) approach.
 
-* *Video Presentation*: the explainations of the deep deterministic policy gradient (DDPG) approach through a short video. The slides are created using *Prezi* and we add an voice over to it to create this presentation. Contrained by the size of the video file, we're not able to directly upload it in this Github post, and the video can be found [here](https://drive.google.com/file/d/1TZLXkOSE62LYvV1SI7H1rE8Ym7c5YzLn/view?usp=drive_link) in Google Drive. We also mentioned an YouTube video in our presentation as an example of the application but cannot play it in our presentation due to copyright reasons, the original video that teaches a robot to walk using DDPG can be watched on [YouTube](https://www.youtube.com/watch?v=TEFXp2Ro-10).
+* *Video Presentation*: the explainations of the deep deterministic policy gradient (DDPG) approach through a short video. The slides are created using *Prezi* and we add an voice over to it to create this presentation. Contrained by the size of the video file, we're not able to directly upload it in this Github post, and the video can be found [here](https://drive.google.com/file/d/1TZLXkOSE62LYvV1SI7H1rE8Ym7c5YzLn/view?usp=drive_link) in Google Drive. We also mentioned an YouTube video in our presentation as an example of the application but cannot play it in our presentation due to copyright reasons. The original video that teaches a robot to walk using DDPG can be watched on [YouTube](https://www.youtube.com/watch?v=TEFXp2Ro-10).
 
 ### Authors
 
